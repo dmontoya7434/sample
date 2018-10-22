@@ -16,7 +16,7 @@
          </padding>
          <children>
             <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-family: quicksand; -fx-font-weight: bolder; -fx-font-size: 2.2em;" text="The Matchmakers" textAlignment="CENTER" wrappingWidth="268.0726318359375" />
-            <HBox alignment="CENTER_RIGHT" style="-fx-background-color: transparent; -fx-text.fill white;" HBox.hgrow="ALWAYS">
+            <HBox alignment="CENTER_RIGHT" style="-fx-background-color: transparent; -fx-text.fill white; " HBox.hgrow="ALWAYS">
                <children>
                   <Button mnemonicParsing="false" style="-fx-background-color: transparent; -fx-text-fill: white; -fx-border-width: 0px 0px 2px 0px; -fx-border-color: black; -fx-font-weight: bold;" text="Signup" textFill="WHITE">
                      <HBox.margin>
