@@ -30,7 +30,7 @@
       </HBox>
       <VBox layoutX="150.0" layoutY="100.0" prefHeight="200.0" prefWidth="250.0">
          <children>
-            <HBox alignment="CENTER" style="-fx-border-color: black; -fx-border-width: 0px 0px 2px 0px;">
+            <HBox alignment="CENTER" style="-fx-border-color: black; -fx-border-width: 0px 0px 2px 0px; ">
                <children>
                   <TextField promptText="username" style="-fx-background-color: gray; -fx-border-color: white;" HBox.hgrow="ALWAYS" />
                </children>
